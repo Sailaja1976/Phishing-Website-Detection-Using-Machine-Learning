@@ -1,0 +1,12 @@
+<option value="http">HTTP</option>
+            <option value="https">HTTPS</option>
+            <option value="ftp">FTP</option>
+            <option value="sftp">SFTP</option>
+            <option value="smtp">SMTP</option>
+            <option value="pop3">POP3</option>
+            <option value="imap">IMAP</option>
+            <option value="dns">DNS</option>
+            <option value="snmp">SNMP</option>
+            <option value="telnet">Telnet</option>
+            <option value="rdp">RDP</option>
+            <option value="icmp">ICMP</option>
